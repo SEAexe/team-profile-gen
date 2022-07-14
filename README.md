@@ -4,7 +4,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Contributors](#contributors)
 - [Usage](#usage)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -23,8 +22,4 @@ Video tutorial: https://drive.google.com/file/d/1ZPwjyLNT1v5DVPfW0vhn5Oja7iuJJpq
 npm run start
 ## Questions
 - GitHub: SEAexe
-- Email: 
-
-## Screenshots
-- ![Insert description here](Insert link to picture)
 
