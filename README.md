@@ -20,6 +20,9 @@ npm install before running the program
 
 ## Usage
 Open the team-profile-gen file in terminal of choosing and input "node index.js" to run the program. Make sure dependencies are installed first.
+
+Video tutorial: https://drive.google.com/file/d/1ZPwjyLNT1v5DVPfW0vhn5Oja7iuJJpqW/view
+
 ## Tests
 npm run start
 ## Questions
